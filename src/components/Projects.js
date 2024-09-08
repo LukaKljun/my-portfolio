@@ -7,7 +7,7 @@ function Projects() {
     { title: "Snake Game on Arduino", description: "Developed a Snake game using Arduino and ESP32." },
     { title: "C# ASP.NET Web Application", description: "Built a web app using C# and ASP.NET." },
     { title: "Pi Nano Satellite Project", description: "Worked on a CanSat project using Pi Nano." },
-    { title: "React Native App at Wise Tech", description: "Led the development of React Native apps." },
+    { title: "React Native App at Wise Tech", description: "Developed React Native apps." },
   ];
 
   return (
