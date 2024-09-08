@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 .App {
   text-align: center;
 }
@@ -27,6 +31,12 @@
 .App-link {
   color: #61dafb;
 }
+
+body {
+  background-color: #F9FAFB; /* Light Gray background */
+  color: #111827; /* Dark Gray text */
+}
+
 
 @keyframes App-logo-spin {
   from {
